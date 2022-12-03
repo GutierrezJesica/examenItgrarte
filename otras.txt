@@ -1,0 +1,100 @@
+ 
+1. ¿El comando git add, lo ejecutamos antes o después de hacer el commit?.
+
+Antes
+ 
+Después
+No se usa ese comando
+ 
+2. ¿Con cual comando podemos ver las etiquetas (tags) de un repositorio?.
+
+git tag show
+git tag
+ 
+git tag see
+git tag look
+ 
+3. ¿Qué función tiene el mensaje que incluimos en cada commit?
+
+Proporciona información del commit,
+Describe los cambios que registra el commit,
+Explica las mejoras o soluciones que se han implementado,
+Todas son correctas.
+ 
+ 
+4. Si quiero actualizar la rama en la que estoy trabajando con la rama principal, ¿qué comando debo utilizar?
+
+git merge
+git rebase
+ 
+cualquiera
+ninguno
+
+
+5. Si quiero incluir en la rama principal lo que estuve desarrollando en otra rama, ¿qué comando debo utilizar?
+
+git rebase
+git merge
+ 
+cualquiera
+niguno
+ 
+6. Si quiero reportar errores, sugerir cambios o características, ¿Qué función de GitHub debo utilizar?
+
+Las incidencias (issues)
+ 
+las solicitudes de extracción (pull request)
+La documentación del proyecto (wiki)
+El foro de debates (discussions?
+ 
+7. ¿Que función debemos activar en GitHub para utilizar un repositorio como página web?
+
+GitHub pages
+ 
+GitHub webs
+GitHub projects
+GitHub wiki
+ 
+8. Marca todos los pasos que debo seguir para aportar con mi trabajo a un proyecto al que  no me han agregado como colaborador.
+
+Hacer los commits correspondientes
+Enviar una pull request
+ 
+Crear una nueva rama
+ 
+Realizar mis aportes
+Combinar la rama en la que trabajé con la rama principal
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+ 
+bifurcar el repositorio del proyecto
+ 
+Clonar el repositorio bifurcado.
+Cambiarme a la nueva rama.
+ 
+escribir por correo a los responsables del proyecto
+iniciar una pull request
+ 
+Crear una incidencia solicitando que me agreguen
+clonar el repositorio del proyecto
+ 
+Explicar las modificaciones que hice y por qué.
+ 
+subir los cambios a GitHub
+ 
+Respuesta correcta
+bifurcar el repositorio del proyecto
+Clonar el repositorio bifurcado.
+Crear una nueva rama
+Realizar mis aportes
+Cambiarme a la nueva rama.
+Hacer los commits correspondientes
+subir los cambios a GitHub
+Enviar una pull request
+iniciar una pull request
+Explicar las modificaciones que hice y por qué.
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+
+ 
+Enlace a tu repositorio en GitHub
+
+https://github.com/GutierrezJesica/examenItgrarte
